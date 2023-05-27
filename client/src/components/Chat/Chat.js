@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://react-chatone-app.herokuapp.com/';
+const ENDPOINT = 'https://chat-app-wqe6.onrender.com/';
 
 let socket;
 
